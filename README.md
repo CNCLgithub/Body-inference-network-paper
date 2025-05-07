@@ -12,8 +12,8 @@ To run the scripts, download the container `cont.sif` and execute the sripts, fo
 
 ## Models 
 The model code is available in the following repositories:
-- BIN and Class-Pose
-- SimCLR
-- MAE
+- [BIN and Class-Pose](https://github.com/CNCLgithub/SPIN)
+- [SimCLR](https://github.com/CNCLgithub/FFCV-SSL)
+- [MAE](https://github.com/CNCLgithub/SparK)
 
 Please also find the synthesized monkey imageset in the BIN (and Class-Pose) repository.
